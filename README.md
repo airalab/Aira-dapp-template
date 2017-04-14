@@ -1,2 +1,2 @@
 # Aira-dapp-template
-Bootrstrap UI markup for Aira dApp
+Bootrstrap markup for Aira dApp
